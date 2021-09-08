@@ -1,4 +1,4 @@
-<!--ESPAÑOL-->
+---------------------------------ESPAÑOL---------------------------------------
 
 
 - Hola amigos, mi nombre es Gabriel Garcia
@@ -15,7 +15,7 @@
 - Me pueden encontrar en redes como IG: @spoch_ , @spoch.art360; twitter: @xXxSpochxXx.
 
 
-<!--ENGLISH-->
+----------------------------------ENGLISH--------------------------------------
 
 
 - Hello friends, my name is Gabriel Garcia
