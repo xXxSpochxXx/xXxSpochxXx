@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+
+        <!--STYLESHEET-->
+        <link rel="stylesheet" href="../CSS/style.css">
+        
+        <!--FONT-->
+        
+        
+        <!--SCRIPT-->
+
+
+        <title>Proyect Dariku Quimico</title>
+    </head>
+    <body>
+        <header>
+            <div class="img-logo">
+                <img src="" alt="" srcset="">
+            </div>
+            <div class="page-title">
+                <h1 class="title">Dariku Químico</h1>
+                <h2 class="last-title">Industrial</h2>
+            </div>
+            <div class="nav-bar">
+                <ul class="nav-list-item">
+                    <li class="list-link" #=""><a href="">Inicio</a></li>
+                    <li class="list-link" #=""><a href="">Quiénes sómos?</a></li>
+                    <li class="list-link" #=""><a href="">Dónde nos ubicamos?</a></li>
+                    <li class="list-link" #=""><a href="">Nuestro Personal</a></li>
+                    <li class="list-link" #=""><a href="">Contacto</a></li>
+                </ul>
+            </div>
+            
+        </header>
+    </body>
+</html>
